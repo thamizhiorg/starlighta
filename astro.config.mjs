@@ -26,6 +26,6 @@ export default defineConfig({
       }
     }]
   }), tailwind()],
-  output: 'server',
+  output: 'static',
   adapter: cloudflare()
 });
