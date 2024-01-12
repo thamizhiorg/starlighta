@@ -27,5 +27,7 @@ export default defineConfig({
     }]
   }), tailwind()],
   output: 'hybrid',
-  adapter: cloudflare()
+  adapter: cloudflare(),
+  build: { incremental: true },
+  experimental: { incremental: true }
 });
