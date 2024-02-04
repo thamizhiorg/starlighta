@@ -10,7 +10,7 @@ export default defineConfig({
     starlight({
       title: "Structural Tamil Genocide",
       social: {
-        twitter: "https://github.com/withastro/starlight",
+        twitter: "https://twitter.com/thamizhnationorg",
       },
       sidebar: [
         {
