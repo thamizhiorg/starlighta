@@ -5,4 +5,6 @@ description: Island and The people
 
 ## Who are Tamils
 
+Tamil people ara aboriginals
+
 ## Who are sinhalese
